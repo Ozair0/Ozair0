@@ -1,5 +1,6 @@
 <h1 align="center">Hey there, I'm Ozair Farahi! 👋</h1>
-<h3 align="center">Passionate Full-Stack Developer from Virginia, USA</h3>
+<h3 align="center">Passionate Full-Stack Developer</h3>
+<h4 align="center">Virginia, USA 🏡</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozair0&label=Profile%20views&color=0e75b6&style=flat" alt="ozair0" /> </p>
 
