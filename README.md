@@ -10,20 +10,20 @@
 
 - 🌱 Currently expanding my skill set with **Actix, Fiber & GRPC**
 
-- 👨‍💻 All of my projects are available on [https://ozair.tech](https://ozair.tech)
+- 👨‍💻 All of my projects are available on [https://www.ozair.xyz](https://www.ozair.xyz)
 
 - 💬 Ask me about **React, React Native, JavaScript, Vue....**
 
 - 📫 Reach me at **ozairfarahi6@gmail.com**
 
-- 📄 Check out my experience on [https://ozair.tech](https://ozair.tech)
+- 📄 Check out my experience on [https://www.ozair.xyz](https://www.ozair.xyz)
 
 - ⚡ Fun fact **I have a love-hate relationship with procrastination 😴😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/ozair-farahi-94b91b149" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ozair-farahi-94b91b149" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/ozair-farahi" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ozair-farahi" height="30" width="40" />
   </a>
   <a href="https://fb.com/prince.ozair.944" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prince.ozair.944" height="30" width="40" />
